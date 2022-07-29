@@ -1,39 +1,39 @@
 {
-	"name": "Random Name",
-	"profesion": "Random job",
-	"about" : "I am A passionate Software Developer learning how to build and deploy Web applications using some cool libraries and frameworks.",
-	"image": "1658049753155.jpg",
+	"name": "Prblm Solvers",
+	"profesion": "Solving Problems",
+	"about" : "Join a group project to meet people, make friends, find support, grow a business, and explore your interests. Thousands of events are happening every day, both online and in person!",
+	"image": "favicon.png",
 	"social":
 			[
 				{
 					"id": 1,
 					"title": "Facebook",
-					"value": null
+					"value": "https://www.facebook.com/prblmsolvers"
 				},
 				{
 					"id": 2,
 					"title": "LinkedIn",
-					"value": "https://www.linkedin.com/in/reda-med/"
+					"value": "https://www.linkedin.com/company/prblmsolvers/"
 				},
 				{
 					"id": 3,
 					"title": "Instagram",
-					"value": "https://www.instagram.com/med_thelunatic/"
+					"value": "https://www.instagram.com/prblmsolvers"
 				},
 				{
 					"id": 4,
 					"title": "Twitter",
-					"value": "https://twitter.com/RedaCodes"
+					"value": "https://twitter.com/prblmsolvers"
 				},
 				{
 					"id": 5,
 					"title": "Email",
-					"value": "mailto:hello@reda.codes" 
+					"value": "mailto:contact@prblmsolvers.com" 
 				},
 				{
 					"id": 6,
 					"title": "Website",
-					"value": null
+					"value": "https://community.prblmsolvers.com/"
 				},
 				{
 					"id": 7,
